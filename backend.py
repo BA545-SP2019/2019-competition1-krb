@@ -32,4 +32,3 @@ def assign_sector(sector):
     elif sector >= 9800:
         return "Non Classafiable Establishments"
     
-    
