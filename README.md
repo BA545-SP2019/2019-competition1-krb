@@ -30,3 +30,16 @@ These are the results of the model we ran. We ran our test code 1000 times
 | AUC      | .6068     |  .6759 |
 
 
+
+
+6. COntributions
+
+We all worked on the project together to come up with pipelines and other processes. Once we each had pipelines to work on, we split up and came back together to compare restults. Once we decided on a pipeline, we came together to try and optimize it. 
+
+The group leader set up a lot of the notebooks, but we worked togther a lot of the time in person. Overall, we each applied our skills to the project and believe that everyone contributed to thier best ability. 
+
+|     Person    |    Contribution  |
+| ------------- |:-------------:|
+| Brian            | 40% |
+| Kevin          | 30% |
+| Ryan          | 30% |
